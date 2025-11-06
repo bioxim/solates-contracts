@@ -6,11 +6,10 @@ This repository contains the on-chain programs powering **Solates**, a DeFi educ
 
 ## 📦 Structure
 
-```plaintext
-solates-contracts/
-├─ points_program/   → Tracks user XP, level and achievements  
-├─ ola_token/        → Core $OLA token mint and distribution logic  
-└─ ola_economy/      → Staking, liquidity and post-TGE economy  
+solates-contracts/ <br>
+├─ points_program/ → Tracks user XP, level and achievements <br>
+├─ ola_token/ → Core $OLA token mint and distribution logic <br>
+└─ ola_economy/ → Staking, liquidity and post-TGE economy
 
 
 ---
