@@ -1,0 +1,14 @@
+# Build outputs
+target/
+dist/
+.anchor/
+node_modules/
+
+# Logs & temp
+*.log
+.DS_Store
+
+# Solana & Anchor artifacts
+*.so
+.crates.toml
+.cargo/
