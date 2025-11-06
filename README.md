@@ -1,4 +1,4 @@
-# 🧠 Solates Smart Contracts
+# 🧠 Solates Programs
 
 This repository contains the on-chain programs powering **Solates**, a DeFi education & incentive platform built on **Solana**.
 
